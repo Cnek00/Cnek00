@@ -9,7 +9,7 @@
 
 ## 🛠️ Technologies I Use
 - **Backend:** Django, Node.js (basic), C# (ASP.NET), Java (basic Spring)
-- **Frontend:** JavaScript (including JSX), HTML, CSS, Photoshop
+- **Frontend:** JavaScript (including JSX), HTML, CSS, Photoshop, TypeScript
 - **Databases:** MySQL, PostgreSQL, SQLite
 
 ## 📫 Contact Me

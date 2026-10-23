@@ -1,45 +1,64 @@
-# 👋 Hi, I'm Cenk Belit!
+<div align="center">
 
-## 🚀 About Me
-- 🖥️ I primarily focus on **backend development**, but I’m also confident in handling **frontend tasks** when needed.
-- 🐍 I work extensively with **Python**, building projects using technologies like **Django**, **NumPy**, and **Pandas**.
-- ☕ I also have experience developing projects with **Java** and **C#**.
-- 🌐 I build modern, fast, and responsive web interfaces using **JavaScript** and **JSX**.
-- 🎯 My goal is to build **scalable**, **sustainable**, and **secure** backend systems.
+# Cenk Belit
 
-## 🛠️ Technologies I Use
-- **Backend:** Django, Node.js (basic), C# (ASP.NET), Java (basic Spring)
-- **Frontend:** JavaScript (including JSX), HTML, CSS, Photoshop, TypeScript
-- **Databases:** MySQL, PostgreSQL, SQLite
+**Backend developer focused on Java / Spring Boot and Python / Django**
 
-## 📫 Contact Me
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/cenk-belit-7815b02ab/)
-- 📧 cenkbelit@gmail.com
+I like building systems where the business rules are explicit, the data model is honest, and the
+tests prove that authorization and concurrency behave as expected.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cenk%20Belit-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cenk-belit-7815b02ab/)
+[![Email](https://img.shields.io/badge/Email-cenkbelit%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:cenkbelit@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Cnek00-181717?logo=github&logoColor=white)](https://github.com/Cnek00)
+
+</div>
 
 ---
 
-> 🛠️ **I am currently specializing in backend development and constantly improving my full-stack development skills.**
+## Featured projects
 
-#######################################################################################################################################
+### [User Management Panel](https://github.com/Cnek00/User-Management-Panel)
 
-# 👋 Merhaba, ben Cenk Belit!
+A Spring Boot admin panel built around three authorization layers: Spring Security roles, a rank
+hierarchy, and scoped, delegatable permissions. Flyway owns the PostgreSQL schema, the REST API is
+documented with OpenAPI, and the test suite runs against real PostgreSQL with Testcontainers.
 
-## 🚀 Hakkımda
-- 🖥️ Ağırlıklı olarak **Backend geliştirme** yapıyorum, ancak gerektiğinde **Frontend** tarafında da güçlü bir şekilde çalışabiliyorum.
-- 🐍 Özellikle **Python** ile çalışıyor; **Django**, **NumPy** ve **Pandas** gibi teknolojilerle aktif projeler geliştiriyorum.
-- ☕ **Java** ve **C#** dillerinde de projeler geliştirdim ve geliştirmeye devam ediyorum.
-- 🌐 **JavaScript** ve **JSX** kullanarak modern, hızlı ve şık web arayüzleri tasarlayabiliyorum.
-- 🎯 Hedefim: **Ölçeklenebilir**, **sürdürülebilir** ve **güvenli** backend sistemleri geliştirmek.
+`Java 17` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `Flyway` · `Testcontainers` · `Docker`
 
-## 🛠️ Kullandığım Teknolojiler
-- **Backend:** Django, Node.js (temel seviye), C# (ASP.NET), Java (Spring temelleri)
-- **Frontend:** JavaScript (JSX dahil), HTML, CSS, Photoshop
-- **Veritabanı:** MySQL, PostgreSQL, SQLite
+### [4Project](https://github.com/Cnek00/4Project)
 
-## 📫 Bana Ulaşın
-- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/cenk-belit-7815b02ab/)
-- 📧 cenkbelit@gmail.com
+A 3D e-commerce demo where products can be inspected in the browser before purchase. React and
+`<model-viewer>` on the frontend, Django REST Framework and PostgreSQL on the backend, with cart,
+coupon, checkout, and stock-locking tests.
+
+`React` · `Django REST Framework` · `PostgreSQL` · `Three.js` · `Docker` · `CI`
+
+### [DPI for macOS](https://github.com/Cnek00/DPI-for-macos)
+
+A macOS launcher that orchestrates Cloudflare WARP and SpoofDPI, plus a small dashboard for status,
+logs, and Discord access. The repository is explicit about the boundary: it wraps the upstream tools
+rather than implementing a DPI bypass engine.
+
+`Python` · `macOS` · `Cloudflare WARP` · `SpoofDPI` · `Docker`
+
+## What I work with
+
+- **Backend:** Java 17, Spring Boot, Spring Security, Spring Data JPA, Python, Django, Django REST Framework
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Frontend:** JavaScript, React, HTML, CSS, TypeScript
+- **Tooling:** Git, Docker, Docker Compose, Maven, Flyway, Testcontainers, GitHub Actions
+
+## Currently
+
+- Preparing for the **AWS Certified Cloud Practitioner** exam.
+- Studying German with a weekly plan, working toward a B1-level routine.
+- Refining my portfolio around backend architecture, testing, and clear technical documentation.
+
+## Contact
+
+- LinkedIn: [cenk-belit-7815b02ab](https://www.linkedin.com/in/cenk-belit-7815b02ab/)
+- Email: [cenkbelit@gmail.com](mailto:cenkbelit@gmail.com)
 
 ---
 
-> 🛠️ **Şu anda Backend geliştirme üzerine uzmanlaşıyor, tam kapsamlı yazılım geliştirme becerilerimi sürekli ilerletiyorum.**
+<sub>Open to backend, platform, and full-stack opportunities where I can work on well-tested systems.</sub>
